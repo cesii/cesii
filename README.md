@@ -1,24 +1,28 @@
-[![cesii'nin Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=cesii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesii&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</p>
+## Hi there, I’m Nuray 👋
 
-<!--
-**cesii/cesii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying Computer Programming at Istanbul University. At the same time, I develop projects on Frontend Web Development as a freelance.
 
-Here are some ideas to get you started:
+### Socials
+- Linkedin : <img src="https://skillicons.dev/icons?i=linkedin" style="width:12px;"/> <a href="https://www.linkedin.com/in/nurayse/">nurayse</a>
+- For my web designs : <img src="https://skillicons.dev/icons?i=instagram" style="width:12px;"/> <a href="https://www.instagram.com/webdev.nuray/">webdev.nuray</a>
+- For my business designs : <img src="https://skillicons.dev/icons?i=instagram" style="width:12px;"/> <a href="https://www.instagram.com/panguweb/">panguweb</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=sass" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+
+### Quick Statistics
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=cesii&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=cesii&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+    </td>
+  </tr>
+</table>
