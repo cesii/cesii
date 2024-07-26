@@ -10,6 +10,8 @@ I am studying Computer Programming at Istanbul University. At the same time, I d
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=sass" /></a>
 <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
