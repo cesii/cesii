@@ -3,7 +3,6 @@
 I am studying Computer Programming at Istanbul University. At the same time, I develop projects on Frontend Web Development as a freelance.
 
 ### Socials
-- Linkedin : <img src="https://skillicons.dev/icons?i=linkedin" style="width:12px;"/> <a href="https://www.linkedin.com/in/nurayse/">nurayse</a>
 - For my web designs : <img src="https://skillicons.dev/icons?i=instagram" style="width:12px;"/> <a href="https://www.instagram.com/webdev.nuray/">webdev.nuray</a>
 - For my business designs : <img src="https://skillicons.dev/icons?i=instagram" style="width:12px;"/> <a href="https://www.instagram.com/panguweb/">panguweb</a>
 
